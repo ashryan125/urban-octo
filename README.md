@@ -1,7 +1,7 @@
 # Urban-Octo Module-01 Challenge
 > Refactored code for a cleaner readability and added accessible semantic tags
 
-[Find the deployed website here!](https://ashryan125.github.io/urban-octo/)
+[Find the deployed website here!](https://ashryan125.github.io/urban-octo/Develop/)
 
 Html code needed multiple divs changed to the correct semantic tags and classes reworked to clean up the css. Also add a few comments to help break up the code.
 
