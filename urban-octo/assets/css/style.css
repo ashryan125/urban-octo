@@ -6,8 +6,15 @@
 
 body {
     background-color: #d9dcd6;
+    font-size: 16px;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Header Styling Start */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,14 +47,11 @@ header ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
+/* Header Styling End */
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 .hero {
@@ -57,12 +61,6 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
-
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .float-left {
@@ -76,7 +74,28 @@ main {
 }
 
 
+/* Section Styling Start */
+.services {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
 
+.services img {
+    max-height: 200px;
+}
+
+.services h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* Section Styling End */
+
+
+/* Aside Styling Start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -135,45 +154,9 @@ main {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Aside Styling End */
 
-/* Section Styling Start */
-.services {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/* Section Styling End */
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* Footer Styling Start */
 .footer {
     padding: 30px;
     clear: both;
@@ -184,3 +167,4 @@ main {
 .footer h2 {
     font-size: 20px;
 }
+/* Footer Styling End */
