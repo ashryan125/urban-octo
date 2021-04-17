@@ -7,9 +7,9 @@ Html code needed multiple divs changed to the correct semantic tags and classes 
 
 The css code needed to be minimized and new classes established. Further, added comments to sections and reordered flow to coincide with html flow.
 
-![screen shot of code](./urban-octo/assets/images/readme-images/urbanOcto_CodeScreenShot.png)
+![screen shot of code](./Develop/assets/images/readme-images/urbanOcto_CodeScreenShot.png)
 
 ## Horiseon Website
 > Finalized company landing page
 
-![screen shot of landing page](./urban-octo/assets/images/readme-images/01-html-css-git-homework-demo.png)
+![screen shot of landing page](./Develop/assets/images/readme-images/01-html-css-git-homework-demo.png)
